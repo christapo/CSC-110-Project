@@ -1,0 +1,6 @@
+Project Plan:
+
+HOW - created a folder, then created a repository through my profile on Github
+
+WHY - the reasons for a repository are numerous. 
+Besides organizing and tracking changes made to a project's code, it also creates backups for code in case of situations where local files for a project become corrupted or lost. 
