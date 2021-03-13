@@ -1,0 +1,11 @@
+Key,Name,Address,Phone
+David Smith, 1230 Lane Street, 678-9080 [2]
+John Smith, 1230 Lane Street, 678-9080 [3]
+David Smith, 1230 Lane Street, 678-9080 [7]
+Mary Smith, 1230 Lane Street, 678-9080 [9]
+Mike Moore, 4567 Sporty Street, 678-5678 [11]
+Mary Smith, 1230 Lane Street, 678-9080 [4]
+John Smith, 1230 Lane Street, 678-9080 [8]
+Sandy Smith, 1230 Lane Street, 678-9080 [5]
+Sandy Smith, 1230 Lane Street, 678-9080 [10]
+Mike Moore, 4567 Sporty Street, 678-5678 [6]

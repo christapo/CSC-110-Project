@@ -1,0 +1,7 @@
+PROJECT DESIGN
+
+1.) Utilize Boolean logic and "StartsWith" to separate erroneous data manually 
+	a.) Organize data using the PriorityQueue data structure
+	b.) Sort data in order of line number (when writing to file below)
+2.) Create files with separated data (good and bad data)
+	a.) Data contains line number for entry in original file 
